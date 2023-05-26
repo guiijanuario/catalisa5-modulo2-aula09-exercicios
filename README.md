@@ -1,4 +1,25 @@
-### LISTA DE EXERCÍCIOS
+## LISTA DE EXERCÍCIOS
+
+<h2 align="center">Introdução_Java_If_Else</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Status-Programador_em_Desenvolvimento-red"></p>
+
+# <p>Exercicios para à pratica da linguagem JAVA - Condicionais -</p>
+
+## 🔨 Exercicios do projeto
+
+- `Exercicio 1` `Folha de Pagamento`
+- `Exercicio 2` `Desconto no combustível`
+- `Exercicio 3` `Perguntas para uma pessoa sobre um crime`
+
+
+## ✔️ Técnicas e tecnologias utilizadas
+
+- ``Java ``
+- ``InteliJ IDEA``
+- ``Paciência``
+- ``Choro``
 
 #### 1. Faça um programa para o cálculo de uma folha de pagamento, sabendo que os descontos são do Imposto de Renda, que depende do salário bruto (conforme tabela abaixo) e 10% para o INSS e que o FGTS corresponde a 11% do Salário Bruto, mas não é descontado (é a empresa que deposita). O Salário Líquido corresponde ao Salário Bruto menos os descontos. O programa deverá pedir ao usuário o valor da sua hora e a quantidade de horas trabalhadas no mês.
 
